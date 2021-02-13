@@ -1,7 +1,6 @@
 /*
 This is the main method.
  */
-
 /**
  * @author Thomas
  */
